@@ -1,6 +1,7 @@
 class: center, middle
 
 # Usus
+
 ## State of the Union
 
 ---
