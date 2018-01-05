@@ -39,7 +39,7 @@ Ein **Eclipse Plug-In** (-Bündel) zur
 .right-column[
 ### Idee
 
-Direktes Feedback in IDE
+Direktes **Feedback** in IDE
 
 - Inspect & Adapt!
 
@@ -53,7 +53,9 @@ layout: false
   ## Demo
 ]
 .right-column[
-class: middle, center
+<br>
+<br>
+<br>
 
 ### GOTO Eclipse
 
