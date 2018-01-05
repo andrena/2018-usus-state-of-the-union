@@ -7,6 +7,7 @@ class: center, middle
 ## State of the Union
 
 ---
+
 layout: false
 .left-column[
   ## Agenda
@@ -24,43 +25,43 @@ layout: false
   ## Damals & heute
 ]
 .right-column[
-.right[![Usus](https://marketplace.eclipse.org/sites/default/files/usus-marketplace.png)]
-### Was ist Project Usus?
+  .right[![Usus](https://marketplace.eclipse.org/sites/default/files/usus-marketplace.png)]
+  ### Was ist Project Usus?
 
-Ein **Eclipse Plug-In** (-Bündel) zur 
+  Ein **Eclipse Plug-In** (-Bündel) zur 
 
-- Bewertung von Java-Projekten bzgl. OO-Metriken
+  - Bewertung von Java-Projekten bzgl. OO-Metriken
 
-- Visualisierung und Verbesserung von Paketstrukturen
-<br>
-<br>
+  - Visualisierung und Verbesserung von Paketstrukturen
+  <br>
+  <br>
 ]
 --
 .right-column[
-### Idee
+  ### Idee
 
-Direktes **Feedback** in IDE
+  Direktes **Feedback** in IDE
 
-- Inspect & Adapt!
+  - Inspect & Adapt!
 
-- Grob: .green[Wie (un)sauber ist mein Projekt?]
+  - Grob: .green[Wie (un)sauber ist mein Projekt?]
 ]
 
 ---
+
 layout: false
 
 .left-column[
   ## Demo
 ]
 .right-column[
-<br>
-<br>
-<br>
+  <br>
+  <br>
+  <br>
 
-### GOTO Eclipse
+  ### GOTO Eclipse
 
 ]
----
 
 ---
 
@@ -69,11 +70,9 @@ layout: false
   ## !TITEL!
 ]
 .right-column[
-### SEKTION
+  ### SEKTION
 
-<br>
+  <br>
 
-### SEKTION 2
-
+  ### SEKTION 2
 ]
----
