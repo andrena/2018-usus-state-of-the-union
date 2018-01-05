@@ -15,13 +15,13 @@ layout: false
 
 .right-column[
 
-  1. Damals & heute
+1. Damals & heute
 
-  2. Demo
+2. Demo
 
-  3. Über den Tellerrand
+3. Über den Tellerrand
 
-  4. Weiterentwicklung und Mitwirkung
+4. Weiterentwicklung und Mitwirkung
 
 ]
 
