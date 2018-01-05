@@ -115,6 +115,7 @@ layout: false
   ### Voraussetzung
   - Java 6+
   - RCP/PDE-Kenntnisse sind hilfreich
+  - https://github.com/usus/usus-plugins/wiki/DevelopmentRequirements
 ]
 
 ---
