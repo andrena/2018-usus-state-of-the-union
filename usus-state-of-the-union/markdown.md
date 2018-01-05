@@ -27,16 +27,17 @@ layout: false
 
 Ein **Eclipse Plug-In** (-Bündel) zur 
 
-- Bewertung von Projekten bzgl. OO-Metriken
+- Bewertung von Java-Projekten bzgl. OO-Metriken
 
 - Visualisierung und Verbesserung von Paketstrukturen
 
+### Idee
+
+Direktes Feedback in IDE (Inspect & Adapt)
 <br>
 
 Grob: .green[Wie (un)sauber ist mein Projekt?]
 
-<br>
 
-Idee: Direktes Feedback in IDE (Inspect & Adapt)
 ]
 ---
