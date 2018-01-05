@@ -113,7 +113,7 @@ layout: false
   - kein ``main(String... args)``
   
   ### Voraussetzung
-  - Java 7+
+  - Java 6+
   - RCP/PDE-Kenntnisse sind hilfreich
 ]
 
