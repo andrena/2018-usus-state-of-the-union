@@ -24,6 +24,8 @@ layout: false
 .right-column[
 ### Was ist Project Usus?
 
+.right[![Right-aligned image](https://marketplace.eclipse.org/sites/default/files/usus-marketplace.png)]
+
 Ein **Eclipse Plug-In** (-Bündel) zur 
 
 - Bewertung von Projekten bzgl. OO-Metriken
