@@ -34,13 +34,41 @@ Ein **Eclipse Plug-In** (-Bündel) zur
 <br>
 <br>
 
+--
 ### Idee
 
 Direktes Feedback in IDE (Inspect & Adapt)
 <br>
 
 - Grob: .green[Wie (un)sauber ist mein Projekt?]
+]
 
+---
+layout: false
+class: middle, center
+
+.left-column[
+  ## Demo
+]
+.right-column[
+
+### GOTO Eclipse
+
+]
+---
+
+---
+
+layout: false
+.left-column[
+  ## !TITEL!
+]
+.right-column[
+### SEKTION
+
+<br>
+
+### SEKTION 2
 
 ]
 ---
