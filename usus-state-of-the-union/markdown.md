@@ -13,10 +13,16 @@ layout: false
   ## Agenda
 ]
 
-1. Damals & heute
-2. Demo
-3. Über den Tellerrand
-4. Weiterentwicklung und Mitwirkung
+.right-column[
+  1. Damals & heute
+
+  2. Demo
+
+  3. Über den Tellerrand
+
+  4. Weiterentwicklung und Mitwirkung
+
+]
 
 ---
 
