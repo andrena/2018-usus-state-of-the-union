@@ -96,7 +96,6 @@ layout: false
 
 ]
 
-
 ---
 
 layout: false
@@ -111,19 +110,29 @@ layout: false
   Plug-Ins haben eine gewöhnungsbedürftige Struktur
   
   - "breiter und flacher" als eigenständige Applikationen
-  - kein programmatischer Einstieg (wie ``main(String... args)``)
+  - kein ``main(String... args)``
   
+  ### Voraussetzung
+  - Java 7+
+  - RCP/PDE-Kenntnisse sind hilfreich
+]
+
+---
+
+layout: false
+.left-column[
+  ## Contribute!
+]
+.right-column[
   ### Tipps
   
   Einstiegspunkte anschauen
-  - Weitere Metriken: https://github.com/usus/usus-plugins/commit/33fd75
-  - Erweiterungen der Class/Package Graph Views
+  - Metriken ergänzen: https://github.com/usus/usus-plugins/commit/33fd75
+  
+  - Erweiterungen der Class/Package Graph Views: https://github.com/usus/usus-plugins/pull/47 (oder #53)
 
   Bei Issues/Feature Requests einsteigen
   - https://github.com/usus/usus-plugins/issues?q=is:issue+is:open+-label:Bug/Regression
-  <br>
-
-  ### SEKTION 2
 ]
 
 ---
