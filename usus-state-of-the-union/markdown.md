@@ -5,7 +5,7 @@ class: center, middle
 ## State of the Union
 
 ---
-
+layout: false
 .left-column[
   ## Agenda
 ]
@@ -26,7 +26,7 @@ layout: false
 
 Ein Eclipse-Plug-In zur Bewertung von Projekten bzgl. OO-Metriken
 
-Grob: Wie (un)sauber ist mein Projekt?
+Grob: .green[Wie (un)sauber ist mein Projekt?]
 
 ]
 ---
