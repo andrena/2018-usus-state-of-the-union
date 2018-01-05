@@ -22,9 +22,8 @@ layout: false
   ## Damals & heute
 ]
 .right-column[
+.right[(https://marketplace.eclipse.org/sites/default/files/usus-marketplace.png)]
 ### Was ist Project Usus?
-
-.right[![Right-aligned image](https://marketplace.eclipse.org/sites/default/files/usus-marketplace.png)]
 
 Ein **Eclipse Plug-In** (-Bündel) zur 
 
