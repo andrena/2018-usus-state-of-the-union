@@ -33,9 +33,9 @@ Ein **Eclipse Plug-In** (-Bündel) zur
 - Visualisierung und Verbesserung von Paketstrukturen
 <br>
 <br>
-
+]
 --
-
+.right-column[
 ### Idee
 
 Direktes Feedback in IDE
@@ -47,12 +47,12 @@ Direktes Feedback in IDE
 
 ---
 layout: false
-class: middle, center
 
 .left-column[
   ## Demo
 ]
 .right-column[
+class: middle, center
 
 ### GOTO Eclipse
 
