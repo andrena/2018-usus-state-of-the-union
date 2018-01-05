@@ -65,7 +65,7 @@ layout: false
 
   2009: Entwicklungsstart bei andrena, 4-7 Entwickler
   
-  2010: Keine Veröffentlich von Usus 1.0
+  2010: Keine Veröffentlichung von Usus 1.0
   
   -2013: Ergänzung von Metriken
   
@@ -75,7 +75,7 @@ layout: false
   
   2017: Unterstützung von Java 8
   
-  aktuelle Version 0.8.0
+  aktuelle Version: 0.8.0
   <br>
 
   ### SEKTION 2
