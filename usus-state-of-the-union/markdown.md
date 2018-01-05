@@ -67,7 +67,7 @@ layout: false
   
   .green[2010:] Keine Veröffentlichung von Usus 1.0
   
-  .green[-2013:] Ergänzung von Metriken
+  .green[2010-2013:] Hauptentwicklung & Ergänzung von Metriken
   
   .green[2014-2015:] Erweiterung der Views Class Graph & Package Graph
   
