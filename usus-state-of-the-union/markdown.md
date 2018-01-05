@@ -65,7 +65,7 @@ layout: false
 
   .green[2009:] Entwicklungsstart bei andrena, 4-7 Entwickler
   
-  .green[2010:] Keine Veröffentlichung von Usus 1.0
+  .green[2010:] Keine Veröffentlichung von Usus 1.0 ;)
   
   .green[2010-2013:] Hauptentwicklung & Ergänzung von Metriken
   
