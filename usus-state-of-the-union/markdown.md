@@ -27,6 +27,7 @@ layout: false
 Ein Eclipse-Plug-In zur 
 
 - Bewertung von Projekten bzgl. OO-Metriken
+
 - Visualisierung und Verbesserung von Paketstrukturen
 
 Grob: .green[Wie (un)sauber ist mein Projekt?]
