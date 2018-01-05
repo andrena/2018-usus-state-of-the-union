@@ -104,6 +104,8 @@ layout: false
   ## Contribute!
 ]
 .right-column[
+  > ask not what your country can do for you — ask what you can do for your country
+ 
   ### Aller Anfang ist schwer
   
   Plug-Ins haben eine gewöhnungsbedürftige Struktur
