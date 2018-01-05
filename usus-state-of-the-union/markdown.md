@@ -37,8 +37,9 @@ Ein **Eclipse Plug-In** (-Bündel) zur
 --
 ### Idee
 
-Direktes Feedback in IDE (Inspect & Adapt)
-<br>
+Direktes Feedback in IDE
+
+- Inspect & Adapt!
 
 - Grob: .green[Wie (un)sauber ist mein Projekt?]
 ]
