@@ -22,7 +22,7 @@ layout: false
   ## Damals & heute
 ]
 .right-column[
-.right[(https://marketplace.eclipse.org/sites/default/files/usus-marketplace.png)]
+.right[![Usus](https://marketplace.eclipse.org/sites/default/files/usus-marketplace.png)]
 ### Was ist Project Usus?
 
 Ein **Eclipse Plug-In** (-Bündel) zur 
