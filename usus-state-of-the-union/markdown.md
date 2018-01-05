@@ -71,7 +71,7 @@ layout: false
   
   .green[2014-2015:] Erweiterung der Views Class Graph & Package Graph
   
-  .green[2015:] Migration von Google Code nach GitHub
+  .green[2015:] Migration von Google Code nach GitHub abgeschlossen
   
   .green[2017:] Unterstützung von Java 8
   
