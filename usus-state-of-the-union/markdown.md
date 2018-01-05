@@ -75,10 +75,9 @@ layout: false
   
   .green[2017:] Unterstützung von Java 8
   
-  aktuelle Version: 0.8.0
+  aktuelle Version: **0.8.0**
   <br>
 
-  ### SEKTION 2
 ]
 
 ---
