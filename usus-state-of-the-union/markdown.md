@@ -1,4 +1,4 @@
-class: center, middle
+ class: center, middle
 
 # Usus
 
@@ -24,7 +24,7 @@ layout: false
 .right-column[
 ### Was ist Usus?
 
-Ein Eclipse-Plug-In zur 
+Ein **Eclipse-Plug-In** zur 
 
 - Bewertung von Projekten bzgl. OO-Metriken
 
