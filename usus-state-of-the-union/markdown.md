@@ -57,6 +57,33 @@ layout: false
 ---
 
 layout: false
+.left-column[
+  ## Damals & heute
+]
+.right-column[
+  ### Geschichtliches
+
+  2009: Entwicklungsstart bei andrena, 4-7 Entwickler
+  
+  2010: Keine Veröffentlich von Usus 1.0
+  
+  -2013: Ergänzung von Metriken
+  
+  2014-2015: Erweiterung der Views Class Graph & Package Graph
+  
+  2015: Migration von Google Code nach GitHub
+  
+  2017: Unterstützung von Java 8
+  
+  aktuelle Version 0.8.0
+  <br>
+
+  ### SEKTION 2
+]
+
+---
+
+layout: false
 
 .left-column[
   ## Demo
