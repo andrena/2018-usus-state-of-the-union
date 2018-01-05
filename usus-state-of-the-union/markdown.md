@@ -30,7 +30,7 @@ Ein **Eclipse Plug-In** (-Bündel) zur
 
 - Visualisierung und Verbesserung von Paketstrukturen
 
-
+<br>
 
 Grob: .green[Wie (un)sauber ist mein Projekt?]
 
