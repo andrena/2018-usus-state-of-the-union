@@ -22,9 +22,9 @@ layout: false
   ## Damals & heute
 ]
 .right-column[
-### Was ist Usus?
+### Was ist Project Usus?
 
-Ein **Eclipse-Plug-In** zur 
+Ein **Eclipse Plug-In** (-Bündel) zur 
 
 - Bewertung von Projekten bzgl. OO-Metriken
 
