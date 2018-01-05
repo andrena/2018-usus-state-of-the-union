@@ -34,5 +34,8 @@ Ein **Eclipse Plug-In** (-Bündel) zur
 
 Grob: .green[Wie (un)sauber ist mein Projekt?]
 
+<br>
+
+Idee: Direktes Feedback in IDE (Inspect & Adapt)
 ]
 ---
