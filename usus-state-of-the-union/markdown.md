@@ -57,7 +57,7 @@ background-repeat: no-repeat;
 .right-column[
 ### Was ist Project Usus?
 
-Ein **Eclipse Plug-In** (-Bündel) zur 
+Ein **Eclipse Plug-In** zur 
 
 - Bewertung von Java-Projekten bzgl. OO-Metriken
 
@@ -67,38 +67,39 @@ Ein **Eclipse Plug-In** (-Bündel) zur
 ]
 --
 .right-column[
-  ### Idee
+### Idee
 
-  Direktes **Feedback** in IDE
+Direktes **Feedback** in IDE
 
-  - Inspect & Adapt!
+- Inspect & Adapt!
 
-  - Grob: .green[Wie (un)sauber ist mein Projekt?]
+- Grob: .green[Wie (un)sauber ist mein Projekt?]
 ]
 
 ---
 
 layout: false
 .left-column[
-  ## Damals & heute
+## Damals & heute
 ]
 .right-column[
-  ### Geschichtliches
+### Geschichtliches
 
-  .green[2009:] Entwicklungsstart bei andrena, 4-7 Entwickler
-  
-  .green[2010:] Keine Veröffentlichung von Usus 1.0 ;)
-  
-  .green[2010-2013:] Hauptentwicklung & Ergänzung von Metriken
-  
-  .green[2014-2015:] Erweiterung der Views Class Graph & Package Graph
-  
-  .green[2015:] Migration von Google Code nach GitHub abgeschlossen
-  
-  .green[2017:] Unterstützung von Java 8
-  
-  aktuelle Version: **0.8.0**
-  <br>
+.green[2009:] Entwicklungsstart bei andrena, 4-7 Entwickler
+
+.green[2010:] Keine Veröffentlichung von Usus 1.0 ;)
+
+.green[2010-2013:] Hauptentwicklung & Ergänzung von Metriken
+
+.green[2014-2015:] Erweiterung der Views Class Graph & Package Graph
+
+.green[2015:] Migration von Google Code nach GitHub abgeschlossen
+
+.green[2017:] Unterstützung von Java 8
+<br>
+
+aktuelle Version: **0.8.0**
+<br>
 
 ]
 
@@ -107,14 +108,14 @@ layout: false
 layout: false
 
 .left-column[
-  ## Demo
+## Demo
 ]
 .right-column[
-  <br>
-  <br>
-  <br>
+<br>
+<br>
+<br>
 
-  ### GOTO Eclipse
+### GOTO Eclipse
 
 ]
 
@@ -122,66 +123,66 @@ layout: false
 
 layout: false
 .left-column[
-  ## Thank God there's docs
+## Thank God there's docs
 ]
 .right-column[
-  ### Viel Hintergrundwissen im andrena Wiki
-  https://mail.andrena.de/wiki/Andrena/UsusWarumDieseMetriken
-  
-  ### verschiedene Artikel aus Fachmagazinen im Repo
-  https://github.com/usus/usus-plugins/tree/master/org.projectusus.documentation
+### Viel Hintergrundwissen im andrena Wiki
+https://mail.andrena.de/wiki/Andrena/UsusWarumDieseMetriken
+
+### verschiedene Artikel aus Fachmagazinen im Repo
+https://github.com/usus/usus-plugins/tree/master/org.projectusus.documentation
 ]
 
 ---
 
 layout: false
 .left-column[
-  ## Contribute!
+## Contribute!
 ]
 .right-column[
-  > *"ask not what your country can do for you — ask .green[what you can do] for your country"*
- 
-  ### Aller Anfang ist schwer
-  
-  Plug-Ins haben eine gewöhnungsbedürftige Struktur
-  
-  - "breiter und flacher" als eigenständige Applikationen
-  - kein ``main(String... args)``
-  
-  ### Voraussetzung
-  - Java 6+
-  - RCP/PDE-Kenntnisse sind hilfreich
-  - https://github.com/usus/usus-plugins/wiki/DevelopmentRequirements
+> *"ask not what your country can do for you — ask .green[what you can do] for your country"*
+
+### Aller Anfang ist schwer
+
+Plug-Ins haben eine gewöhnungsbedürftige Struktur
+
+- "breiter und flacher" als eigenständige Applikationen
+- kein ``main(String... args)``
+
+Voraussetzungen
+- Java 6+
+- RCP/PDE-Kenntnisse sind hilfreich
+- https://github.com/usus/usus-plugins/wiki/DevelopmentRequirements
 ]
 
 ---
 
 layout: false
 .left-column[
-  ## Contribute!
+## Contribute!
 ]
 .right-column[
-  ### Tipps
-  
-  Einstiegspunkte anschauen
-  - Metriken ergänzen: https://github.com/usus/usus-plugins/commit/33fd75
-  
-  - Erweiterungen der Class/Package Graph Views: https://github.com/usus/usus-plugins/pull/47 (oder #53)
+### Tipps
 
-  Bei Issues/Feature Requests einsteigen
-  - https://github.com/usus/usus-plugins/issues?q=is:issue+is:open+-label:Bug/Regression
+Einstiegspunkte anschauen
+- Metriken ergänzen: https://github.com/usus/usus-plugins/commit/33fd75
+
+- Erweiterungen der Class/Package Graph Views: https://github.com/usus/usus-plugins/pull/47 (oder #53)
+
+Bei Issues/Feature Requests einsteigen
+- https://github.com/usus/usus-plugins/issues?q=is:issue+is:open+-label:Bug/Regression
 ]
 
 ---
 
 layout: false
 .left-column[
-  ## !TITEL!
+## !TITEL!
 ]
 .right-column[
-  ### SEKTION
+### SEKTION
 
-  <br>
+<br>
 
-  ### SEKTION 2
+### SEKTION 2
 ]
