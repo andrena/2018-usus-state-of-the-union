@@ -47,14 +47,11 @@ layout: false
 ---
 
 layout: false
-background-position: top, right;
-background-image: url(https://marketplace.eclipse.org/sites/default/files/usus-marketplace.png)
-background-repeat: no-repeat;
-
 .left-column[
 ## Damals & heute
 ]
 .right-column[
+.right[![](https://marketplace.eclipse.org/sites/default/files/usus-marketplace.png)]
 ### Was ist Project Usus?
 
 Ein **Eclipse Plug-In** zur 
@@ -126,6 +123,10 @@ layout: false
 ## Thank God there's docs
 ]
 .right-column[
+
+### GitHub
+https://github.com/usus/usus-plugins/wiki
+
 ### Viel Hintergrundwissen im andrena Wiki
 https://mail.andrena.de/wiki/Andrena/UsusWarumDieseMetriken
 
