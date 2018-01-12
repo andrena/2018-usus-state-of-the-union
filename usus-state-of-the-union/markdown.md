@@ -25,6 +25,23 @@ layout: false
 
 ]
 
+
+---
+
+layout: false
+.left-column[
+  ## Motivation
+]
+.right-column[
+  ### Ist USUS Usus?
+
+- ca. 70 andrenas haben den Skill "Usus" angegeben
+
+???
+Handzeichen! Wer hat Usus im letzten (Halb)jahr benutzt?
+gefühlt wenig Verbreitung
+]
+
 ---
 
 layout: false
@@ -94,6 +111,20 @@ layout: false
 
   ### GOTO Eclipse
 
+]
+
+---
+
+layout: false
+.left-column[
+  ## Thank God there's docs
+]
+.right-column[
+  ### Viel Hintergrundwissen im andrena Wiki
+  https://mail.andrena.de/wiki/Andrena/UsusWarumDieseMetriken
+  
+  ### verschiedene Artikel aus Fachmagazinen im Repo
+  https://github.com/usus/usus-plugins/tree/master/org.projectusus.documentation
 ]
 
 ---
