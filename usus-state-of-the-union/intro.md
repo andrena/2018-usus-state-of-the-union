@@ -61,6 +61,8 @@ Ein **Eclipse Plug-In** zur
 - Visualisierung und Verbesserung von Paketstrukturen
 <br>
 <br>
+Bonus
+- Multi-Project TestRunner
 ]
 --
 .right-column[
