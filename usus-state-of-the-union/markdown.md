@@ -47,8 +47,8 @@ layout: false
 ---
 
 layout: false
-background-image: url(https://marketplace.eclipse.org/sites/default/files/usus-marketplace.png)
 background-position: top, right;
+background-image: url(https://marketplace.eclipse.org/sites/default/files/usus-marketplace.png)
 background-repeat: no-repeat;
 
 .left-column[
