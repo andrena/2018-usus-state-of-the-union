@@ -48,7 +48,7 @@ layout: false
 
 layout: false
 background-image: url(https://marketplace.eclipse.org/sites/default/files/usus-marketplace.png)
-background-position: center;
+background-position: top, right;
 background-repeat: no-repeat;
 
 .left-column[
@@ -171,6 +171,18 @@ Einstiegspunkte anschauen
 
 Bei Issues/Feature Requests einsteigen
 - https://github.com/usus/usus-plugins/issues?q=is:issue+is:open+-label:Bug/Regression
+]
+
+---
+
+layout: false
+class: center, middle
+.left-column[
+## Go go go!
+]
+.right-column[
+[![Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client](https://marketplace.eclipse.org/sites/all/themes/solstice/public/images/marketplace/btn-install.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1089 "Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client")
+
 ]
 
 ---
