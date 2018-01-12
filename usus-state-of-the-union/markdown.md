@@ -176,11 +176,13 @@ Bei Issues/Feature Requests einsteigen
 ---
 
 layout: false
-class: center, middle
 .left-column[
 ## Go go go!
 ]
 .right-column[
+<br>
+<br>
+<br>
 [![Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client](https://marketplace.eclipse.org/sites/all/themes/solstice/public/images/marketplace/btn-install.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1089 "Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client")
 
 ]
