@@ -10,7 +10,7 @@ class: center, middle
 
 layout: false
 .left-column[
-  ## Agenda
+## Agenda
 ]
 
 .right-column[
@@ -25,41 +25,45 @@ layout: false
 
 ]
 
-
 ---
 
 layout: false
 .left-column[
-  ## Motivation
+## Motivation
 ]
+
 .right-column[
-  ### Ist USUS Usus?
+### Ist USUS Usus?
 
 - ca. 70 andrenas haben den Skill "Usus" angegeben
 
 ]
 
 ???
-https://mail.andrena.de/wiki/Andrena/ImportantSkillClouds Projekt-Cloud auflegen
-Handzeichen! Wer hat Usus im letzten (Halb)jahr benutzt?
-gefühlt wenig Verbreitung
+- https://mail.andrena.de/wiki/Andrena/ImportantSkillClouds Projekt-Cloud auflegen
+- Handzeichen! Wer hat Usus im letzten (Halb)jahr benutzt?
+- gefühlt wenig Verbreitung
+
 ---
 
 layout: false
+background-position: center;
+background-repeat: no-repeat;
+
 .left-column[
-  ## Damals & heute
+## Damals & heute
 ]
 .right-column[
-  .right[![Usus](https://marketplace.eclipse.org/sites/default/files/usus-marketplace.png)]
-  ### Was ist Project Usus?
+background-image: url(https://marketplace.eclipse.org/sites/default/files/usus-marketplace.png)
+### Was ist Project Usus?
 
-  Ein **Eclipse Plug-In** (-Bündel) zur 
+Ein **Eclipse Plug-In** (-Bündel) zur 
 
-  - Bewertung von Java-Projekten bzgl. OO-Metriken
+- Bewertung von Java-Projekten bzgl. OO-Metriken
 
-  - Visualisierung und Verbesserung von Paketstrukturen
-  <br>
-  <br>
+- Visualisierung und Verbesserung von Paketstrukturen
+<br>
+<br>
 ]
 --
 .right-column[
