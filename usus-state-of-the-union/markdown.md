@@ -47,6 +47,7 @@ layout: false
 ---
 
 layout: false
+background-image: url(https://marketplace.eclipse.org/sites/default/files/usus-marketplace.png)
 background-position: center;
 background-repeat: no-repeat;
 
@@ -54,7 +55,6 @@ background-repeat: no-repeat;
 ## Damals & heute
 ]
 .right-column[
-background-image: url(https://marketplace.eclipse.org/sites/default/files/usus-marketplace.png)
 ### Was ist Project Usus?
 
 Ein **Eclipse Plug-In** (-Bündel) zur 
