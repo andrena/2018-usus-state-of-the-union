@@ -29,6 +29,7 @@ Plug-Ins haben eine gewöhnungsbedürftige Struktur
 
 - "breiter und flacher" als eigenständige Applikationen
 - kein ``main(String... args)``
+- Plug-In ist Singleton, viele Klassen/Methoden ``static``
 
 Voraussetzungen
 - Java 6+
