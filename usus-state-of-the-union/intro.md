@@ -123,3 +123,4 @@ layout: false
 - USUS Perspektive vorstellen
 - 
 - Paketzyklus zeigen:
+-- "Highlight" erläutern und Beispiel von Release 0.7.8 zeigen: https://github.com/usus/usus-plugins/releases/tag/v0.7.8
