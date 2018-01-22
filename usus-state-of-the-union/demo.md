@@ -30,3 +30,21 @@ layout: false
 - "Show in Class Graph"
   - Filter "Source folder" zeigen
   - Zyklus auflösen: `UsusUIPlugin` verschieben  
+
+---
+
+layout: false
+.left-column[
+## Read the docs
+]
+.right-column[
+
+Überblick im GitHub Wiki
+- https://github.com/usus/usus-plugins/wiki
+
+Viel Hintergrundwissen im andrena Wiki
+- https://mail.andrena.de/wiki/Andrena/UsusWarumDieseMetriken
+
+Verschiedene Artikel aus Fachmagazinen im Repo
+- https://github.com/usus/usus-plugins/tree/master/org.projectusus.documentation
+]
