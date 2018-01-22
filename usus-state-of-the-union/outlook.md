@@ -14,12 +14,11 @@ Plug-Ins haben eine gewöhnungsbedürftige Struktur
 - kein `main(String... args)`, stattdessen XML-Konfiguration
 
 - Plug-In ist Singleton, viele Klassen/Methoden `static`
+<br/>
 
 Voraussetzungen
 
-- Java 6+
-
-- RCP/PDE-Kenntnisse sind hilfreich
+- Java 6+, RCP/PDE-Kenntnisse sind hilfreich
 
 - https://github.com/usus/usus-plugins/wiki/DevelopmentRequirements
 ]
@@ -55,8 +54,9 @@ layout: false
 <br>
 <br>
 <br>
+.middle[
 [![Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client](https://marketplace.eclipse.org/sites/all/themes/solstice/public/images/marketplace/btn-install.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1089 "Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client")
-
+]
 ]
 
 ---
