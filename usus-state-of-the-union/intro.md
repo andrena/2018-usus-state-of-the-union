@@ -70,6 +70,7 @@ Bonus
 ]
 
 --
+
 .right-column[
 Idee: Direktes **Feedback** in IDE
 
