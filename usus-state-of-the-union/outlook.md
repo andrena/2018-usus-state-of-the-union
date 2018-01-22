@@ -16,6 +16,7 @@ Plug-Ins haben eine gewöhnungsbedürftige Struktur
 - Plug-In ist Singleton, viele Klassen/Methoden `static`
 
 --
+
 Voraussetzungen
 
 - Java 6+, RCP/PDE-Kenntnisse sind hilfreich
