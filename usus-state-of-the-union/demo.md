@@ -14,3 +14,6 @@ layout: false
 
 ???
 - (Marketplace Eintrag zeigen)
+- USUS Perspektive vorstellen
+  - "Projects covered" als Einstieg
+
