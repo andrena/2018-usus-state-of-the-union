@@ -1,4 +1,3 @@
-
 layout: false
 class: center, middle
 
@@ -63,7 +62,6 @@ Ein **Eclipse Plug-In** zur
 
 - Visualisierung und Verbesserung von Paketstrukturen
 
-<br>
 Bonus
 
 - Multi-Project TestRunner
