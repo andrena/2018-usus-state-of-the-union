@@ -35,9 +35,10 @@ layout: false
 
 layout: false
 .left-column[
-## Read the docs
+## Demo
 ]
 .right-column[
+### Read the docs
 
 Überblick im GitHub Wiki
 - https://github.com/usus/usus-plugins/wiki
