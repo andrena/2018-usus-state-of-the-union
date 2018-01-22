@@ -30,4 +30,3 @@ layout: false
 - "Show in Class Graph"
   - Filter "Source folder" zeigen
   - Zyklus lösen: ``UsusUIPlugin`` verschieben
-
