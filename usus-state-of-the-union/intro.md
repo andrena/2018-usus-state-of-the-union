@@ -15,7 +15,7 @@ layout: false
 
 .right-column[
 
-1. Überblick
+1. Motivation
 
 2. Demo
 
@@ -83,10 +83,10 @@ Direktes **Feedback** in IDE
 
 layout: false
 .left-column[
-## Damals & heute
+## Motivation
 ]
 .right-column[
-### Geschichtliches
+### Damals & heute
 
 .green[2009:] Entwicklungsstart bei andrena, 4-7 Entwickler
 
