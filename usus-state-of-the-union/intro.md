@@ -49,9 +49,10 @@ layout: false
 layout: false
 .left-column[
 ## Motivation
+
+.bottom[![](https://marketplace.eclipse.org/sites/default/files/usus-marketplace.png)]
 ]
 .right-column[
-.right[![](https://marketplace.eclipse.org/sites/default/files/usus-marketplace.png)]
 ### Was ist Project Usus?
 
 Ein **Eclipse Plug-In** zur 
