@@ -1,5 +1,44 @@
 layout: false
 .left-column[
+## Practices
+]
+.right-column[
+### Ganz oder gar nicht
+
+- Mit Hotspots auch bei "kaputten" Projekten Quick-Wins identifizieren
+
+### Aber
+
+Zero-Warnings-Prinzip
+- Je mehr Warnings, desto weniger interessiert es die Leute
+- daher: die Anzahl nahe 0 halten
+
+Paketstrukturen sind wie Plastik
+- weniger flexibel mit der Zeit
+- irgendwann nur noch mit Gewalt und Bruchgefahr anpassbar
+- Zyklen sind leichter zu vermeiden als aufzulösen
+]
+
+---
+
+layout: false
+.left-column[
+## Practices
+]
+.right-column[
+### Nobody's perfect
+
+Usus verhält sich manchmal komisch
+- Have you tried turning it off & on again? ("Projects covered")
+
+### Tue folgendes .green[nicht]
+- "Compute automatically" deselektieren
+- Graph-Views schließen
+
+---
+
+layout: false
+.left-column[
 ## Contribute!
 ]
 .right-column[
