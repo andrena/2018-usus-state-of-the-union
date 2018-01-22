@@ -34,6 +34,7 @@ Usus verhält sich manchmal komisch
 ### Tue folgendes .green[nicht]
 - "Compute automatically" deselektieren
 - Graph-Views schließen
+]
 
 ---
 
