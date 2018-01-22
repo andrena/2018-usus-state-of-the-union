@@ -29,4 +29,4 @@ layout: false
   - "Highlight" erläutern und Beispiel von Release 0.7.8 zeigen: https://github.com/usus/usus-plugins/releases/tag/v0.7.8
 - "Show in Class Graph"
   - Filter "Source folder" zeigen
-  - Zyklus lösen: ``UsusUIPlugin`` verschieben
+  - Zyklus auflösen: ``UsusUIPlugin`` verschieben  
