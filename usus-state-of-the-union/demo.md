@@ -18,7 +18,7 @@ layout: false
   - "Projects covered" als Einstieg
   - "Usus Cockpit" listet Analyseergebnisse
   - Pareto-Prinzip: Hotspots von oben nach unten abarbeiten
-  - Bsp: `UsusInfoBuilder` "Extract Method", Trend nach oben 
+  - Bsp: `UsusInfoBuilder` "Extract Method" -> Trend nach oben 
   - Einige Metriken erläutern
 - "Yellow Count"
   - je mehr Warnungen desto kräftiger gefärbt
