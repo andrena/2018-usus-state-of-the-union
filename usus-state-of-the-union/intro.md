@@ -15,13 +15,13 @@ layout: false
 
 .right-column[
 
-1. Damals & heute
+1. Überblick
 
 2. Demo
 
-3. Über den Tellerrand
+3. Best Practices
 
-4. Weiterentwicklung und Mitwirkung
+4. Ausblick
 
 ]
 
@@ -48,7 +48,7 @@ layout: false
 
 layout: false
 .left-column[
-## Damals & heute
+## Motivation
 ]
 .right-column[
 .right[![](https://marketplace.eclipse.org/sites/default/files/usus-marketplace.png)]
@@ -59,10 +59,12 @@ Ein **Eclipse Plug-In** zur
 - Bewertung von Java-Projekten bzgl. OO-Metriken
 
 - Visualisierung und Verbesserung von Paketstrukturen
-<br>
+
 <br>
 Bonus
+
 - Multi-Project TestRunner
+
 ]
 --
 .right-column[
