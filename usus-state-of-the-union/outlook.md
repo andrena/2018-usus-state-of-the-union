@@ -55,7 +55,7 @@ layout: false
 <br>
 <br>
 .center[
-[![](https://marketplace.eclipse.org/sites/all/themes/solstice/public/images/marketplace/btn-install.png)(http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1089 "Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client")] [![](https://marketplace.eclipse.org/sites/default/files/usus-marketplace.png)(http://projectusus.org)]
+[![](https://marketplace.eclipse.org/sites/all/themes/solstice/public/images/marketplace/btn-install.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1089 "Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client") [![](https://marketplace.eclipse.org/sites/default/files/usus-marketplace.png)](http://projectusus.org)
 ]
 ]
 
