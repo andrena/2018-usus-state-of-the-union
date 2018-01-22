@@ -31,7 +31,7 @@ layout: false
 Einstiegspunkte anschauen
 - Metriken ergänzen: https://github.com/usus/usus-plugins/commit/33fd75
 
-- Erweiterungen der Class/Package Graph Views: https://github.com/usus/usus-plugins/pull/47 (oder #53)
+- Erweiterungen der Class/Package Graph Views: https://github.com/usus/usus-plugins/pull/47 (oder [#53](https://github.com/usus/usus-plugins/pull/479))
 
 Bei Issues/Feature Requests einsteigen
 - https://github.com/usus/usus-plugins/issues?q=is:issue+is:open+-label:Bug/Regression
@@ -41,9 +41,12 @@ Bei Issues/Feature Requests einsteigen
 
 layout: false
 .left-column[
-## Go go go!
+## Fragen/Kritik
 ]
+
+--
 .right-column[
+
 <br>
 <br>
 <br>
