@@ -61,7 +61,7 @@ layout: false
 <br>
 <br>
 
-Quelle: https://maxbechtold.github.io
+Quelle: https://maxbechtold.github.io/slides
 ]
 
 ---
