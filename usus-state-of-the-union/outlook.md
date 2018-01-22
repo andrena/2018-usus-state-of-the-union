@@ -42,7 +42,6 @@ Bei Issues/Feature Requests einsteigen
 ]
 
 ---
-class: middle, center
 layout: false
 .left-column[
 ## Fragen/Kritik
