@@ -1,23 +1,5 @@
 layout: false
 .left-column[
-## Thank God there's docs
-]
-.right-column[
-
-GitHub
-- https://github.com/usus/usus-plugins/wiki
-
-Viel Hintergrundwissen im andrena Wiki
-- https://mail.andrena.de/wiki/Andrena/UsusWarumDieseMetriken
-
-verschiedene Artikel aus Fachmagazinen im Repo
-- https://github.com/usus/usus-plugins/tree/master/org.projectusus.documentation
-]
-
----
-
-layout: false
-.left-column[
 ## Contribute!
 ]
 .right-column[
