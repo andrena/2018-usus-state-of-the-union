@@ -13,8 +13,6 @@ layout: false
 ]
 
 ???
-
-test
 - (Marketplace Eintrag zeigen)
 - USUS Perspektive vorstellen
   - "Projects covered" als Einstieg
@@ -33,4 +31,4 @@ test
   - Filter "Source folder" zeigen
   - Zyklus auflösen: ``UsusUIPlugin`` verschieben  
 
-test
+???
