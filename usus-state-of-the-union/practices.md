@@ -34,7 +34,7 @@ layout: false
 .right-column[
 ### Known bugs (siehe GitHub)
 
-Usus verhält sich manchmal komisch
+Usus verpasst ab und zu strukturelle Änderungen
 - Have you tried turning it off & on again? ("Projects covered")
 
 ### Tue folgendes .green[nicht]
