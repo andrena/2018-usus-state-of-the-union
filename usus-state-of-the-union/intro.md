@@ -51,6 +51,7 @@ layout: false
 ## Motivation
 
 .bottom[![](https://marketplace.eclipse.org/sites/default/files/usus-marketplace.png)]
+
 ]
 .right-column[
 ### Was ist Project Usus?
