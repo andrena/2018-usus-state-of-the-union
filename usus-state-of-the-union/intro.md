@@ -61,6 +61,7 @@ Ein **Eclipse Plug-In** zur
 - Bewertung von Java-Projekten bzgl. OO-Metriken
 
 - Visualisierung und Verbesserung von Paketstrukturen
+<br/>
 
 Bonus
 
