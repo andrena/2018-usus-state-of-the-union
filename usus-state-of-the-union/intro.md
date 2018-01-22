@@ -68,6 +68,8 @@ Bonus
 
 - Multi-Project TestRunner
 
+- Usus2IsisConnector
+
 ]
 --
 .right-column[
