@@ -13,6 +13,7 @@ layout: false
 ]
 
 ???
+
 - (Marketplace Eintrag zeigen)
 - USUS Perspektive vorstellen
   - "Projects covered" als Einstieg
@@ -30,4 +31,3 @@ layout: false
 - "Show in Class Graph"
   - Filter "Source folder" zeigen
   - Zyklus auflösen: ``UsusUIPlugin`` verschieben  
----
