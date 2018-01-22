@@ -36,6 +36,8 @@ Usus verhält sich manchmal komisch
 - Have you tried turning it off & on again? ("Projects covered")
 
 ### Tue folgendes .green[nicht]
+
 - "Compute automatically" deselektieren
+
 - Graph-Views schließen
 ]
