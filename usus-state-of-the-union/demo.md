@@ -15,8 +15,8 @@ layout: false
 ???
 - (Marketplace Eintrag zeigen)
 - USUS Perspektive vorstellen
-- 
-- Paketzyklus zeigen:
+  - 
+- Paketzyklus zeigen (org.projectusus.ui)
   - Layout "Tree Horizontal"
   - Checkbox "Cyclic Dependencies"
   - umordnen, ausblenden
