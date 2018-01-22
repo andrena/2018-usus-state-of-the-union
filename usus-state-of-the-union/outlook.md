@@ -14,8 +14,8 @@ Plug-Ins haben eine gewöhnungsbedürftige Struktur
 - kein `main(String... args)`, stattdessen XML-Konfiguration
 
 - Plug-In ist Singleton, viele Klassen/Methoden `static`
-<br/>
 
+--
 Voraussetzungen
 
 - Java 6+, RCP/PDE-Kenntnisse sind hilfreich
