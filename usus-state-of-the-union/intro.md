@@ -70,9 +70,7 @@ Bonus
 ]
 --
 .right-column[
-### Idee
-
-Direktes **Feedback** in IDE
+Idee: Direktes **Feedback** in IDE
 
 - Inspect & Adapt!
 
