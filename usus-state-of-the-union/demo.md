@@ -42,11 +42,11 @@ layout: false
 
 Überblick im GitHub Wiki
 - https://github.com/usus/usus-plugins/wiki
-
+<br/>
 
 Viel Hintergrundwissen im andrena Wiki
 - https://mail.andrena.de/wiki/Andrena/UsusWarumDieseMetriken
-
+<br/>
 
 Verschiedene Artikel aus Fachmagazinen im Repo
 - https://github.com/usus/usus-plugins/tree/master/org.projectusus.documentation
