@@ -1,3 +1,25 @@
+---
+
+layout: false
+.left-column[
+## Beyond Java
+]
+.right-column[
+### .NET-Portierung
+
+- fokussiert auf Metriken
+- Unterstützung bis Visual Studio 2013
+- https://github.com/usus/Usus.NET
+
+### Und Android?
+
+- Usus analysiert auch native Apps in Java
+- Android-unabhängige Module durch .green[Clean Architecture]
+- leider kein Android Studio/IntelliJ Support
+]
+
+---
+
 layout: false
 .left-column[
 ## Contribute!
@@ -62,18 +84,4 @@ layout: false
 <br>
 
 .center[maxbechtold.github.io/slides](https://maxbechtold.github.io/slides)
-]
-
----
-
-layout: false
-.left-column[
-## !TITEL!
-]
-.right-column[
-### SEKTION
-
-<br>
-
-### SEKTION 2
 ]
