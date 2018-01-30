@@ -6,13 +6,17 @@ layout: false
 ### .NET-Portierung
 
 - fokussiert auf Metriken
+
 - Unterstützung bis Visual Studio 2013
+
 - https://github.com/usus/Usus.NET
 
 ### Und Android?
 
 - Usus analysiert auch native Apps in Java
-- Android-unabhängige Module durch .green[Clean Architecture]
+
+- Tipp: Android-unabhängige Module durch .green[Clean Architecture]
+
 - leider kein Android Studio/IntelliJ Support
 ]
 
