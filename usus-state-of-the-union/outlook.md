@@ -85,5 +85,5 @@ layout: false
 <br>
 <br>
 
-.center[maxbechtold.github.io/slides](https://maxbechtold.github.io/slides)
+.center[ [maxbechtold.github.io/slides](https://maxbechtold.github.io/slides) ]
 ]
