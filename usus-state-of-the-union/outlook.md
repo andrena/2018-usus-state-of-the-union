@@ -17,7 +17,7 @@ layout: false
 
 - Tipp: Android-unabhängige Module durch .green[Clean Architecture]
 
-- leider kein Android Studio/IntelliJ Support
+- Erfordert Eclipse (kein Android Studio/IntelliJ-Support)
 ]
 
 ---
