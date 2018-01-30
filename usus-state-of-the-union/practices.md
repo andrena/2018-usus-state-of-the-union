@@ -35,7 +35,7 @@ layout: false
 ### Known bugs (siehe GitHub)
 
 Usus verpasst ab und zu strukturelle Änderungen
-- Have you tried turning it off & on again? ("Projects covered")
+- *Have you tried turning it off & on again?* ("Projects covered")
 
 ### Tue folgendes .green[nicht]
 
