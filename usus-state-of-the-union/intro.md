@@ -19,7 +19,7 @@ layout: false
 
 2. Demo
 
-3. Best Practices
+3. BPractices
 
 4. Ausblick
 
