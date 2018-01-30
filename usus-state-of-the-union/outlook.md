@@ -1,5 +1,3 @@
----
-
 layout: false
 .left-column[
 ## Beyond Java
